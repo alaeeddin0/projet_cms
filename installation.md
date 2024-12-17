@@ -31,14 +31,12 @@ Avant de commencer, assurez-vous d’avoir :
 Lancez votre serveur local et ouvrez phpMyAdmin en accédant à :
 http://localhost/phpmyadmin
 Créez une nouvelle base de données nommée wordpress
-### Étape 3 : Configurer WordPress
-Accédez au fichier wp-config.php dans le dossier du projet.
-Modifiez les paramètres de connexion à la base de données :
-php
 
-define('DB_NAME', 'wordpress'); // Nom de la base de données
-define('DB_USER', 'root');                // Nom d'utilisateur (par défaut : root)
-define('DB_PASSWORD', '');               // Mot de passe (vide pour XAMPP)
-define('DB_HOST', 'localhost');          // Hôte (localhost pour serveur local)
-### Étape 4 : importer la base de données WordPress
+### Étape 3 : importer la base de données WordPress
 le fichier est existant dans github
+
+### étape 4 : accéder à l'application 
+une fois vous accéder a l'application peut etre une page d'erreur va etre affiché , il suffit de clicker sur ecommerce dans le top de la page pour se diriger vers la page d'acceuil
+
+
+si vous avez des questions voila mon email : eddinalae087@gmail.com
