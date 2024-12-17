@@ -2,7 +2,7 @@
 login :     admin
 mdp   :  admin123
 
-login  :   contibuteur
+login  :   contributeur
 mdp    : contributeur123
 
 login  :   editeur
