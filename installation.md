@@ -1,11 +1,11 @@
 ### les identifiants : 
-login :     admin
+login :     admin,
 mdp   :  admin123
 
-login  :   contributeur
+login  :   contributeur,
 mdp    : contributeur123
 
-login  :   editeur
+login  :   editeur,
 mdp   :  editeur123
 
 # Projet WordPress - Site E-Commerce  
